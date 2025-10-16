@@ -8,5 +8,5 @@ Our goal is to transform how people and businesses operate by simplifying comple
 We believe innovation should be **accessible, efficient, and impactful** — that’s why we design tools that adapt to real-world challenges and deliver measurable results.  
 From process optimization to intelligent data analysis, Ditko.br turns technology into a strategic advantage.
 
-🌐 [https://ditkotech.vercel.app/](https://ditkotech.vercel.app/)  
-📧 contatoditko@gmail.com
+🌐 Build your ideas in public with: [Ditko](https://ditkotech.vercel.app)
+📧 Contact: <a href="mailto:contatoditko@gmail.com" target="__blank">contatoditko@gmail.com</a>
